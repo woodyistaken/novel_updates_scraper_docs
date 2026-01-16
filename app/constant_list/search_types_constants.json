@@ -1,0 +1,8 @@
+{
+    "AND_SEARCH":"and",
+    "OR_SEARCH":"or",
+    "MIN_SEARCH":"min",
+    "MAX_SEARCH":"max",
+    "INCLUDE_SEARCH":"1",
+    "EXCLUDE_SEARCH":"2"
+}
