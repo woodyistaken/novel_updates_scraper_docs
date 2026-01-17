@@ -17,7 +17,7 @@ const properties={
         "type":"float",
         "desc":"Rating of the book"
     },
-    "numRatings":{
+    "num_ratings":{
         "type":"int",
         "desc":"Number of ratings associated with the book"
     },

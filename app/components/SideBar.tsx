@@ -20,7 +20,7 @@ export default function SideBar({className="",open=false}:Props){
                 <img src='/website.png' className="col-start-1 row-span-full h-full"/>
                 <div className="text-xs text-gray-400 col-start-2 ">Novel Updates API</div>
                 <div className={`col-start-2 row-start-2 text-sm`}>Documentation</div>
-                <div className={`row-start-3 col-start-2 text-sm ${roboto.className}`}>v0.1.4</div>
+                <div className={`row-start-3 col-start-2 text-sm ${roboto.className}`}>v0.1.6</div>
             </Link>
             <div className="flex-1">
                 <h1 className={`font-light text-gray-100 mt-5 mb-2 ${roboto.className}`}>Getting Started</h1>
